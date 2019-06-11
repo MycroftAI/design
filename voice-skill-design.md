@@ -57,3 +57,8 @@ The easiest way to understand it is to take a look at some examples:
 - Review notes are grouped into Intents or other logical categories
 - List of non-working features and unexpected behaviors goes through prioritization that is collectively agreed upon and gets fixed item by item by the skill developer
 - Example: [Alarm Skill: Review Notes](https://docs.google.com/document/d/1ML2q4xYFoYOo_bvbqlqsvIxkYo2GSHcOX4YhE4bXtVI/edit)
+
+## Standard Version 2.0
+TBD
+### 1. Write “Skill Name: Brief” Document
+### 2. Create “Skill Name: VUI Recipe” Sheet
